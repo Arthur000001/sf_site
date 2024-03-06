@@ -1,5 +1,0 @@
-name = input("Введите имя: ")
-surname = input("Введите отчество: ")
-print("Здравствуйте ", name + " " + surname)
-business = input("Как ваши дела: ")
-print("Мои дела ", business)

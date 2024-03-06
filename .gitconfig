@@ -1,0 +1,6 @@
+[user]
+    name = Ваше имя
+    email = ваш@example.com
+
+[alias]
+    history = log --graph
